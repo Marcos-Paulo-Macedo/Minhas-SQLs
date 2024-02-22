@@ -1,0 +1,8 @@
+# Minhas-SQLs
+Avanços em SQL: Experiências
+
+Fiz várias SQLs que foram um salto na minha carreira. Desenvolvi essas consultas como parte do serviço, aplicando técnicas pra turbinar e cuidar dos dados em diferentes situações. Cada SQL representa uma evolução na minha habilidade em lidar com tarefas complicadas, contribuindo direto pro sucesso dos projetos em que me envolvi.
+
+Ao longo da minha trajetória profissional (primeiro emprego), destaco uma variedade significativa de SQLs que representam avanços notáveis no meu papel como desenvolvedor. Essas consultas, meticulosamente elaboradas como parte essencial das minhas responsabilidades, refletem a aplicação prática de técnicas avançadas para otimização e gerenciamento de dados em diversos contextos. Cada SQL é mais do que um simples código; é um testemunho tangível da minha habilidade em enfrentar desafios complexos e contribuir de maneira direta para o progresso e sucesso dos projetos nos quais estive envolvido.
+
+A diversidade dessas SQLs não apenas destaca a complexidade e a variedade de tarefas enfrentadas, mas também serve como um marco distintivo na minha evolução profissional. Ao assumir tarefas desafiadoras, essas consultas se tornaram não apenas instrumentos de eficiência na gestão de dados, mas também indicadores tangíveis do meu crescimento técnico. Cada linha de código reflete não apenas uma solução para um problema específico, mas um passo firme em direção ao aprimoramento contínuo e à excelência profissional. Assim, essa coleção de SQLs se torna um capítulo significativo na minha jornada, moldando minha identidade como um desenvolvedor comprometido e capacitado."
